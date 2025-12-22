@@ -1,7 +1,7 @@
 # Cypher_project
 Edco Tech project
 Blog 1
-Blog 1
+
 Cypher v4.6: Re-Engineering AI Defense for Irish Schools
 ​Project: Edutech OWASP AI Author: Sean BurkeTags: #OWASP #AISecurity #Compliance #Blockchain #Edutech​Introduction: The Problem of AI Safety in Education
 ​When I joined the Edutech OWASP AI project as a contributor, I was met with a complex challenge. Coming from an Operations and Compliance background—working with enterprise platforms like SAP XML datamodels and Microsoft ecosystems—I was tasked with a vision that felt worlds apart: building a secure, two-persona AI for secondary schools.​The goal was to blend my professional experience in content moderation and operations with my passion for Japanese subculture and anime to create
