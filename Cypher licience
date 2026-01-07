@@ -1,0 +1,19 @@
+# Cypher: Neurosymbolic School Intranet
+
+Cypher is a secure, persona-driven intranet AI designed for secondary school networks. [span_19](start_span)[span_20](start_span)[span_21](start_span)It protects digital identities while providing factual, non-biased information[span_19](end_span)[span_20](end_span)[span_21](end_span).
+
+## 🛡️ Security & Privacy (OWASP 2025/2026)
+- **[span_22](start_span)Privacy by Design:** All PII processing adheres to strict standards[span_22](end_span).
+- **Data Retention:** In accordance with user requirements, all session history and PII are automatically purged after **5 days**.
+- **[span_23](start_span)Immutable Logic:** Core personality and safety instructions are non-mutable[span_23](end_span).
+
+## 🏗️ The Stack
+- **[span_24](start_span)[span_25](start_span)[span_26](start_span)Neural:** Mistral Medium (Handling character vibes and Irish Mythology RAG[span_24](end_span)[span_25](end_span)[span_26](end_span)).
+- **[span_27](start_span)[span_28](start_span)[span_29](start_span)Symbolic:** Custom Python Guardrails (Enforcing AUP and Role-Based Access[span_27](end_span)[span_28](end_span)[span_29](end_span)).
+- **Management:** **FleetDM** (Monitoring device health and AUP compliance on the network).
+
+## 📜 Licensing
+This project is licensed under the **MIT License**. This choice reflects our commitment to the open-source community, inspired by the learning materials from MIT used during development.
+
+## 🎓 Acknowledgements
+Foundational concepts for this AI's logic and architecture were derived from MIT educational resources.
