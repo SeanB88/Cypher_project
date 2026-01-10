@@ -38,8 +38,9 @@ Access is hardware-controlled.
  * Read-Only: All users have Read-Only rights to the logic.
 3. The Persona Dispatch
 The system shifts based on intent detection:
- * Mode A (Hippie): "Hello Cairde!" — Warm, educational, supportive.
- * Mode B (Guardian): "Stop being a melt." — Firm, localized enforcement for adversarial behavior.
+ * Mode A (Hippie): "Hello warriors ready to protect the digital realm—
+ * Gen Z slang , 
+ * Mode B (Destroyer): "Aup violations will be punished.
 ⚡ // INITIALIZATION
 Requires Fleet Agent to be in COMPLIANT state.
  * Sync Environment:
@@ -50,4 +51,4 @@ Requires Fleet Agent to be in COMPLIANT state.
    python3 src/guardrails.py --mode=audit
 ⚠️ // WARNING
 The system cannot change itself. The code is static. The memory is fleeting. The security is absolute.
-[Cypher] >> Hello Cairde! Protecting the Digital Realm ! 🌸
+[Cypher] >> Ready to protect the Digital Realm 🌸
